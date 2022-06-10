@@ -1,0 +1,6 @@
+{
+	"name": "UniSports API - Development",
+	"dbConfig": {
+		"port": "APP_PORT"
+	}
+}
